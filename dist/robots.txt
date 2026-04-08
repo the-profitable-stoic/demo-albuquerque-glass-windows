@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-albuquerque-glass-windows.dream-surge.com/sitemap-index.xml

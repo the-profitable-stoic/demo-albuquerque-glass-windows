@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Albuquerque Glass & Windows",
+    "phone": "+15053798579",
+    "category": "window replacement company",
+    "city": "Albuquerque",
+    "state": "NM"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Albuquerque's Window Experts",
+      "heroSubline": "Durable, energy-efficient windows built for the high desert climate. Serving Albuquerque and surrounding areas with pride.",
+      "aboutTitle": "Quality Windows, Expert Installation",
+      "aboutText": [
+        "Albuquerque Glass & Windows started with a simple goal: to provide Albuquerque residents with reliable, high-quality window replacement services. We're a local team, born and raised right here, and we understand the unique challenges our climate presents.",
+        "Our approach is straightforward: honest assessments, clear communication, and meticulous workmanship. We believe in doing the job right the first time, using only the best materials and proven techniques to ensure lasting performance and value.",
+        "We're committed to Albuquerque. From sponsoring local youth sports to partnering with Habitat for Humanity, we believe in giving back to the community that has supported us. When you choose us, you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Albuquerque's climate and housing styles, ensuring the perfect fit for your needs."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the most durable, energy-efficient windows designed to withstand the New Mexico sun."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced technicians ensure precise installation for optimal performance and longevity."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, no surprises. We provide clear, upfront pricing and detailed estimates."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Windows Today!",
+      "ctaSubline": "Get a free, no-obligation quote and discover the difference quality windows can make."
+    },
+    "services": [
+      {
+        "slug": "residential-window-replacement",
+        "name": "Residential Window Replacement",
+        "shortDescription": "Enhance your home's comfort and value with our expert residential window replacement services.",
+        "description": "Our residential window replacement service is designed to improve your home's energy efficiency, aesthetics, and overall value. We offer a wide selection of window styles and materials to suit your specific needs and budget. Whether you're dealing with drafty old windows or simply looking to upgrade your home's appearance, we can help.\n\nWe start with a thorough assessment of your existing windows and discuss your goals and preferences. Our team will guide you through the selection process, helping you choose the right windows for your home's architecture and your personal style. We handle everything from precise measurements to professional installation, ensuring a seamless and stress-free experience.\n\nWith our expertise in Albuquerque's unique climate, we recommend windows that can withstand the intense UV rays and temperature fluctuations. We also offer energy-efficient options that can help lower your utility bills and create a more comfortable living environment. Let us bring comfort and value to your home with beautiful, long-lasting windows.",
+        "process": [
+          "Step 1: Schedule a free consultation and estimate.",
+          "Step 2: Select your preferred window styles and materials.",
+          "Step 3: Our team will take precise measurements.",
+          "Step 4: Professional installation by our experienced technicians."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced home aesthetics",
+          "Increased property value",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "The duration depends on the number of windows being replaced, but most residential projects are completed within 1-2 days."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to make window replacement more affordable. Contact us to learn more."
+          },
+          {
+            "question": "What types of windows do you offer?",
+            "answer": "We offer a wide range of window styles, including double-hung, casement, sliding, and picture windows, in various materials like vinyl, wood, and aluminum."
+          }
+        ]
+      },
+      {
+        "slug": "energy-efficient-window-installation",
+        "name": "Energy-Efficient Window Installation",
+        "shortDescription": "Reduce energy costs and improve comfort with our energy-efficient window installation services.",
+        "description": "Albuquerque's intense sun and fluctuating temperatures can take a toll on your energy bills. Our energy-efficient window installation service is designed to combat these challenges, providing you with a more comfortable and cost-effective home.\n\nWe specialize in installing windows that meet or exceed Energy Star standards, featuring advanced glass coatings and insulation technologies. These windows help to minimize heat transfer, keeping your home cooler in the summer and warmer in the winter. This not only reduces your reliance on heating and cooling systems but also lowers your carbon footprint.\n\nOur team will assess your energy needs and recommend the best window options for your home. We'll ensure proper installation to maximize energy savings and prevent drafts. Invest in energy-efficient windows and experience the long-term benefits of lower utility bills and a more comfortable living environment. We understand the specific needs of Albuquerque homes, from adobe to stucco, and can recommend the best solutions for your property.",
+        "process": [
+          "Step 1: Energy audit and consultation.",
+          "Step 2: Selection of energy-efficient windows.",
+          "Step 3: Professional installation with proper sealing.",
+          "Step 4: Post-installation inspection and energy savings assessment."
+        ],
+        "benefits": [
+          "Lower energy bills",
+          "Increased home comfort",
+          "Reduced carbon footprint",
+          "Enhanced home value"
+        ],
+        "faq": [
+          {
+            "question": "What is the R-value of your energy-efficient windows?",
+            "answer": "The R-value varies depending on the specific window model, but we offer options with R-values ranging from R-3 to R-5 or higher."
+          },
+          {
+            "question": "Are your windows Energy Star certified?",
+            "answer": "Yes, we offer a wide selection of Energy Star certified windows that meet or exceed energy efficiency standards."
+          },
+          {
+            "question": "How much can I save on my energy bills?",
+            "answer": "Energy savings vary depending on your home's insulation, window size, and climate, but you can expect to see a significant reduction in your monthly energy bills."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair-services",
+        "name": "Window Repair Services",
+        "shortDescription": "Extend the life of your windows with our comprehensive window repair services.",
+        "description": "Don't replace your windows just yet! Albuquerque Glass & Windows offers comprehensive window repair services to address a variety of issues, from cracked glass to faulty hardware. Our experienced technicians can diagnose and repair your windows, saving you money and extending their lifespan.\n\nWe handle all types of window repairs, including glass replacement, frame repairs, sash repairs, and hardware replacements. We use high-quality materials and proven techniques to ensure lasting results. Whether you have a broken window pane, a drafty window, or a window that won't open or close properly, we can help.\n\nOur repair services are a cost-effective alternative to full window replacement, especially for minor damage or older windows. We'll assess the condition of your windows and recommend the best repair options to restore their functionality and appearance. We understand the unique challenges of maintaining windows in Albuquerque's climate and can provide expert advice on how to protect your windows from further damage.",
+        "process": [
+          "Step 1: Window inspection and damage assessment.",
+          "Step 2: Repair plan and cost estimate.",
+          "Step 3: Professional repairs using quality materials.",
+          "Step 4: Post-repair inspection and functionality testing."
+        ],
+        "benefits": [
+          "Cost-effective alternative to replacement",
+          "Extended window lifespan",
+          "Improved window functionality",
+          "Enhanced home security"
+        ],
+        "faq": [
+          {
+            "question": "Can you repair cracked window glass?",
+            "answer": "Yes, we can replace cracked or broken window glass with high-quality replacement glass."
+          },
+          {
+            "question": "Do you repair window hardware?",
+            "answer": "Yes, we repair or replace faulty window hardware, including locks, handles, and hinges."
+          },
+          {
+            "question": "How long does window repair take?",
+            "answer": "The duration depends on the extent of the damage, but most repairs can be completed within a few hours."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-design-installation",
+        "name": "Custom Window Design & Installation",
+        "shortDescription": "Create a unique look for your home with our custom window design and installation services.",
+        "description": "Want windows that perfectly match your vision? Our custom window design and installation service allows you to create windows that are tailored to your specific needs and preferences. We work with you to design windows that complement your home's architecture and reflect your personal style.\n\nWe offer a wide range of customization options, including window size, shape, material, color, and glass type. Whether you're looking for a unique window shape, a specific glass pattern, or a custom color, we can bring your vision to life. Our experienced designers will guide you through the design process, providing expert advice and ensuring that your custom windows meet your exact specifications.\n\nOur skilled installers will then ensure precise installation for optimal performance and aesthetics. With custom windows, you can create a truly unique look for your home and enhance its overall value. We understand the architectural styles prevalent in Albuquerque, from traditional adobe to modern designs, and can create custom windows that seamlessly integrate with your home's aesthetic.",
+        "process": [
+          "Step 1: Design consultation and needs assessment.",
+          "Step 2: Custom window design and material selection.",
+          "Step 3: Precise measurements and fabrication.",
+          "Step 4: Professional installation by our experienced team."
+        ],
+        "benefits": [
+          "Unique window designs",
+          "Personalized style",
+          "Increased home value",
+          "Perfect fit for your home"
+        ],
+        "faq": [
+          {
+            "question": "What materials can I choose for my custom windows?",
+            "answer": "We offer a wide range of materials, including wood, vinyl, aluminum, and fiberglass."
+          },
+          {
+            "question": "Can you create custom window shapes?",
+            "answer": "Yes, we can create custom window shapes to match your specific design requirements."
+          },
+          {
+            "question": "How long does it take to design and install custom windows?",
+            "answer": "The duration depends on the complexity of the design, but we'll provide you with a timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-window-services",
+        "name": "Commercial Window Services",
+        "shortDescription": "Enhance your business with our reliable commercial window services.",
+        "description": "Albuquerque Glass & Windows provides comprehensive commercial window services to businesses throughout the Albuquerque area. We understand the unique needs of commercial properties and offer a range of services to improve your building's appearance, energy efficiency, and security.\n\nOur commercial window services include window replacement, repair, and installation. We work with a variety of commercial window types, including storefront windows, curtain wall systems, and office windows. Our experienced team can handle projects of any size, from small repairs to large-scale window replacements.\n\nWe offer energy-efficient window options that can help lower your business's energy costs and create a more comfortable environment for your employees and customers. We also provide window tinting services to reduce glare and heat gain. With our reliable commercial window services, you can enhance your business's image and improve its bottom line. We are familiar with the requirements of Albuquerque businesses and can provide solutions that meet local building codes and regulations.",
+        "process": [
+          "Step 1: Site assessment and consultation.",
+          "Step 2: Commercial window selection and design.",
+          "Step 3: Professional installation or repair services.",
+          "Step 4: Post-installation inspection and quality assurance."
+        ],
+        "benefits": [
+          "Improved building aesthetics",
+          "Increased energy efficiency",
+          "Enhanced security",
+          "Reduced operating costs"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer window tinting services for commercial buildings?",
+            "answer": "Yes, we offer a variety of window tinting options to reduce glare and heat gain."
+          },
+          {
+            "question": "Can you handle large-scale commercial window replacement projects?",
+            "answer": "Yes, we have the experience and resources to handle commercial window replacement projects of any size."
+          },
+          {
+            "question": "Are you licensed and insured?",
+            "answer": "Yes, we are fully licensed and insured to provide commercial window services in Albuquerque."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-window-repair",
+        "name": "Emergency Window Repair",
+        "shortDescription": "Fast, reliable emergency window repair services when you need them most.",
+        "description": "A broken window can compromise your home's security and expose you to the elements. Albuquerque Glass & Windows offers 24/7 emergency window repair services to address unexpected damage and restore your peace of mind. We understand that emergencies can happen at any time, and we're here to provide prompt and reliable service when you need it most.\n\nOur emergency window repair services include board-up services to secure your property, glass replacement, and temporary window coverings. We'll quickly assess the damage and provide you with a cost-effective solution to restore your window's functionality and security.\n\nOur team is available around the clock to respond to your emergency and provide you with the support you need. We'll work quickly and efficiently to minimize the disruption to your home or business. Don't let a broken window put your property at risk – contact us for fast and reliable emergency window repair services. We are familiar with the types of damage that can occur due to Albuquerque's weather, such as hailstorms, and are prepared to handle these situations promptly.",
+        "process": [
+          "Step 1: Immediate response to your emergency call.",
+          "Step 2: On-site assessment and damage evaluation.",
+          "Step 3: Board-up services and temporary repairs.",
+          "Step 4: Glass replacement and permanent window repairs."
+        ],
+        "benefits": [
+          "24/7 emergency service",
+          "Fast response time",
+          "Secure your property",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "Are you available 24/7 for emergency window repair?",
+            "answer": "Yes, we offer 24/7 emergency window repair services throughout the Albuquerque area."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within 1-2 hours."
+          },
+          {
+            "question": "Do you offer board-up services?",
+            "answer": "Yes, we offer board-up services to secure your property after a window has been broken."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Albuquerque",
+        "slug": "albuquerque-nm",
+        "state": "NM",
+        "content": "Albuquerque Glass & Windows is proud to serve the vibrant city of Albuquerque, New Mexico. We offer comprehensive window replacement and installation services to homeowners and businesses throughout the Albuquerque metro area. From historic homes in Old Town to modern residences in the Northeast Heights, we have the experience and expertise to handle any window project, big or small.\n\nWe understand the unique needs of Albuquerque residents, including energy efficiency concerns related to the desert climate. That's why we offer a wide selection of energy-efficient windows that can help you save money on your utility bills while keeping your home comfortable year-round. Our team is committed to providing exceptional customer service and quality workmanship on every job.",
+        "localContext": "Albuquerque is known for its rich cultural heritage, stunning landscapes, and diverse architecture, all of which influence window choices.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Los Ranchos de Albuquerque",
+          "South Valley"
+        ]
+      },
+      {
+        "city": "Rio Rancho",
+        "slug": "rio-rancho-nm",
+        "state": "NM",
+        "content": "Albuquerque Glass & Windows extends its top-notch window replacement services to Rio Rancho, a rapidly growing community just north of Albuquerque. We understand the specific needs of Rio Rancho homeowners, from new construction projects to replacing windows in established neighborhoods. Our team is dedicated to providing reliable and affordable window solutions.\n\nWe offer a wide range of window styles and materials to suit any home's architecture and budget. Whether you're looking for energy-efficient vinyl windows, durable fiberglass windows, or elegant wood windows, we have you covered. We are committed to helping Rio Rancho residents enhance the beauty and value of their homes with high-quality window replacements.",
+        "localContext": "Rio Rancho's consistent growth and mix of housing styles mean a diverse range of window preferences, from modern to traditional.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Corrales",
+          "Placitas"
+        ]
+      },
+      {
+        "city": "Los Lunas",
+        "slug": "los-lunas-nm",
+        "state": "NM",
+        "content": "Albuquerque Glass & Windows is pleased to provide window replacement and installation services to Los Lunas, New Mexico. We understand the unique character of Los Lunas and strive to provide window solutions that complement the local aesthetic. Whether you're looking to improve energy efficiency, enhance curb appeal, or simply upgrade your existing windows, we're here to help.\n\nOur experienced team is familiar with the challenges of window replacement in older homes, as well as the latest trends in new construction. We offer a wide selection of window styles and materials to suit any budget and design preference. We pride ourselves on our commitment to customer satisfaction and our attention to detail.",
+        "localContext": "Los Lunas, with its blend of rural charm and growing suburban areas, requires window solutions that balance aesthetics and functionality.",
+        "nearbyAreas": [
+          "Bosque Farms",
+          "Peralta",
+          "Valencia"
+        ]
+      },
+      {
+        "city": "South Valley",
+        "slug": "south-valley-nm",
+        "state": "NM",
+        "content": "Albuquerque Glass & Windows proudly serves the South Valley of Albuquerque, offering professional window replacement and installation services to residents and businesses alike. We understand the unique needs and character of this historic community and are committed to providing quality workmanship and exceptional customer service.\n\nWe offer a wide range of window options to suit any style and budget, from energy-efficient vinyl windows to custom-designed wood windows. Our experienced team will work with you to find the perfect windows for your home or business, ensuring a seamless installation process and lasting results. We are dedicated to helping South Valley residents improve the beauty, comfort, and value of their properties.",
+        "localContext": "The South Valley's unique cultural heritage and mix of architectural styles require a sensitive approach to window replacement, preserving the area's character.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Isleta Village Proper",
+          "Los Padillas"
+        ]
+      },
+      {
+        "city": "North Valley",
+        "slug": "north-valley-nm",
+        "state": "NM",
+        "content": "Albuquerque Glass & Windows is dedicated to providing top-quality window replacement services to the residents of North Valley, Albuquerque. We understand the unique charm and character of this area, known for its lush landscapes and historic homes. Our team is committed to offering personalized solutions to meet your specific needs and enhance the beauty and value of your property.\n\nWe offer a wide selection of window styles and materials to complement the diverse architecture of North Valley homes. Whether you're looking for energy-efficient windows to reduce your utility bills or custom-designed windows to enhance your curb appeal, we have you covered. We pride ourselves on our attention to detail and our commitment to customer satisfaction.",
+        "localContext": "The North Valley's established neighborhoods and emphasis on natural beauty influence window choices, often prioritizing energy efficiency and aesthetic harmony.",
+        "nearbyAreas": [
+          "Los Ranchos de Albuquerque",
+          "Albuquerque",
+          "Corrales"
+        ]
+      },
+      {
+        "city": "Corrales",
+        "slug": "corrales-nm",
+        "state": "NM",
+        "content": "Albuquerque Glass & Windows is pleased to offer its expert window replacement services to the village of Corrales, New Mexico. We understand the unique aesthetic and community values of Corrales, and we strive to provide window solutions that complement the area's distinctive character. Our team is dedicated to delivering exceptional quality and customer satisfaction.\n\nWe offer a wide range of window options to suit any home style, from traditional adobe to modern designs. Whether you're looking to improve energy efficiency, enhance natural light, or simply upgrade your existing windows, we're here to help. We are committed to providing Corrales residents with durable, beautiful, and energy-efficient window solutions.",
+        "localContext": "Corrales' rural atmosphere and emphasis on preserving its unique character demand window solutions that blend seamlessly with the natural surroundings.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Albuquerque",
+          "North Valley"
+        ]
+      },
+      {
+        "city": "Los Ranchos de Albuquerque",
+        "slug": "los-ranchos-de-albuquerque-nm",
+        "state": "NM",
+        "content": "Albuquerque Glass & Windows provides window replacement and installation in Los Ranchos de Albuquerque, NM. We understand the unique needs of this village and strive to provide window solutions that complement the local aesthetic. Whether you're looking to improve energy efficiency, enhance curb appeal, or simply upgrade your existing windows, we're here to help.\n\nOur experienced team is familiar with the challenges of window replacement in older homes, as well as the latest trends in new construction. We offer a wide selection of window styles and materials to suit any budget and design preference. We pride ourselves on our commitment to customer satisfaction and our attention to detail.",
+        "localContext": "Los Ranchos' established neighborhoods and emphasis on maintaining its rural character influence window choices, often prioritizing traditional styles.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "North Valley",
+          "Algodones"
+        ]
+      },
+      {
+        "city": "Placitas",
+        "slug": "placitas-nm",
+        "state": "NM",
+        "content": "Albuquerque Glass & Windows proudly serves the community of Placitas, New Mexico, offering professional window replacement and installation services. We understand the unique beauty and charm of Placitas and are committed to providing our customers with the highest quality products and workmanship.\n\nWe offer a wide range of window options to suit any style and budget, from energy-efficient vinyl windows to custom-designed wood windows. Our experienced team will work with you to find the perfect windows for your home, ensuring a seamless installation process and lasting results. We are dedicated to helping Placitas residents improve the beauty, comfort, and value of their properties.",
+        "localContext": "Placitas' artistic community and stunning mountain views often influence window choices, with homeowners seeking to maximize natural light and frame their views.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Bernalillo",
+          "San Ysidro"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Residential Window Replacement",
+        "text": "Albuquerque Glass & Windows did an amazing job replacing all the windows in my house. The team was professional, efficient, and the new windows look fantastic. My house is so much quieter and more comfortable now. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Energy-Efficient Window Installation",
+        "text": "I had Albuquerque Glass & Windows install energy-efficient windows in my home, and I've already noticed a difference in my energy bills! The installation was smooth and the crew was respectful of my property. The windows are well-sealed and look great.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Window Repair Services",
+        "text": "I had a broken window pane, and Albuquerque Glass & Windows came out quickly to repair it. The technician was friendly and knowledgeable, and the repair was done perfectly. I was very impressed with their prompt service and reasonable prices.",
+        "date": "2025-04-18"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Custom Window Design & Installation",
+        "text": "We wanted a unique look for our new home in Nob Hill, and Albuquerque Glass & Windows delivered! They designed and installed custom windows that perfectly matched our vision. The quality is outstanding, and the windows have really enhanced the character of our home.",
+        "date": "2025-05-05"
+      },
+      {
+        "name": "Linda P.",
+        "rating": 4,
+        "service": "Commercial Window Services",
+        "text": "Albuquerque Glass & Windows replaced the windows in our office building, and they did a fantastic job. The project was completed on time and within budget, and the new windows have made a big difference in the building's appearance and energy efficiency.",
+        "date": "2025-05-20"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Emergency Window Repair",
+        "text": "A rock shattered my living room window late at night. I called Albuquerque Glass & Windows, and they were at my house within an hour to board it up. They replaced the window the next day. Super responsive and professional!",
+        "date": "2025-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Albuquerque Window Replacement | Glass & Windows",
+        "description": "Reliable window replacement in Albuquerque, NM. Energy-efficient windows & expert installation. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Albuquerque Window Replacement",
+        "description": "Learn about Albuquerque Glass & Windows: Albuquerque's trusted window replacement experts. Local, reliable, and committed to quality."
+      },
+      "services": {
+        "title": "Window Services | Albuquerque Glass & Windows",
+        "description": "Albuquerque Glass & Windows offers window replacement, repair, and installation services. Serving Albuquerque, NM and surrounding areas."
+      },
+      "contact": {
+        "title": "Contact Us | Albuquerque Window Replacement",
+        "description": "Contact Albuquerque Glass & Windows for a free quote on window replacement, repair, and installation services in Albuquerque, NM."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Albuquerque Glass & Windows",
+        "description": "Read customer reviews of Albuquerque Glass & Windows. See why we're Albuquerque's trusted window replacement company."
+      },
+      "service-areas": {
+        "title": "Service Areas | Albuquerque Glass & Windows",
+        "description": "Albuquerque Glass & Windows provides window services in Albuquerque, NM and surrounding areas. Check our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-window-replacement": "/images/service-residential-window-replacement.webp",
+      "energy-efficient-window-installation": "/images/service-energy-efficient-window-installation.webp",
+      "window-repair-services": "/images/service-window-repair-services.webp",
+      "custom-window-design-installation": "/images/service-custom-window-design-installation.webp",
+      "commercial-window-services": "/images/service-commercial-window-services.webp",
+      "emergency-window-repair": "/images/service-emergency-window-repair.webp"
+    },
+    "servicesResponsive": {
+      "residential-window-replacement": {
+        "src": "/images/service-residential-window-replacement.webp",
+        "srcset": "/images/service-residential-window-replacement-400w.webp 400w, /images/service-residential-window-replacement-800w.webp 800w, /images/service-residential-window-replacement-1200w.webp 1200w, /images/service-residential-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "energy-efficient-window-installation": {
+        "src": "/images/service-energy-efficient-window-installation.webp",
+        "srcset": "/images/service-energy-efficient-window-installation-400w.webp 400w, /images/service-energy-efficient-window-installation-800w.webp 800w, /images/service-energy-efficient-window-installation-1200w.webp 1200w, /images/service-energy-efficient-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair-services": {
+        "src": "/images/service-window-repair-services.webp",
+        "srcset": "/images/service-window-repair-services-400w.webp 400w, /images/service-window-repair-services-800w.webp 800w, /images/service-window-repair-services-1200w.webp 1200w, /images/service-window-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-design-installation": {
+        "src": "/images/service-custom-window-design-installation.webp",
+        "srcset": "/images/service-custom-window-design-installation-400w.webp 400w, /images/service-custom-window-design-installation-800w.webp 800w, /images/service-custom-window-design-installation-1200w.webp 1200w, /images/service-custom-window-design-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-window-services": {
+        "src": "/images/service-commercial-window-services.webp",
+        "srcset": "/images/service-commercial-window-services-400w.webp 400w, /images/service-commercial-window-services-800w.webp 800w, /images/service-commercial-window-services-1200w.webp 1200w, /images/service-commercial-window-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-window-repair": {
+        "src": "/images/service-emergency-window-repair.webp",
+        "srcset": "/images/service-emergency-window-repair-400w.webp 400w, /images/service-emergency-window-repair-800w.webp 800w, /images/service-emergency-window-repair-1200w.webp 1200w, /images/service-emergency-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
